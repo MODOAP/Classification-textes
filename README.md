@@ -20,7 +20,7 @@ Ce carnet nécessite de synchroniser un compte Google Drive.
 
 ## Utilisation
 
-1. Ouvrir le carnet dans l'interface Google Colab [![Open In Colab](colab.svg)](https://colab.research.google.com/github/paulbin501/t1/blob/main/t1.ipynb) et se connecter à un compte Google Drive ?????????????????????
+1. Ouvrir le carnet dans l'interface Google Colab et se connecter à un compte Google Drive 
 
 2. Lancer la première cellule et cliquer sur le lien généré pour synchroniser un compte Drive si demandé.
 Cette cellule importe les bibliothèques nécessaires à l'utilisation du carnet, et connecte un compte Drive.
@@ -48,6 +48,3 @@ Cette cellule importe les bibliothèques nécessaires à l'utilisation du carnet
 	- Spécifier le chemin vers le fichier .json contenant les blocs de texte à classer
 	- Spécifier le chemin vers un dossier sur le drive où sauvegarder les résultats (un fichier .json et un fichier .csv) 
 	- Lancer la cellule
-
-Consulter un tutoriel sur l'utilisation générale des carnets Colab (?????????????????????????)
-
